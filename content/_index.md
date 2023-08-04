@@ -75,7 +75,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: [](https://www.datacamp.com/statement-of-accomplishment/course/858cb1c9aee8ffb66bafed93188fbca1504b4a5d)
+        - certificate_url: [https://www.datacamp.com](https://www.datacamp.com/statement-of-accomplishment/course/858cb1c9aee8ffb66bafed93188fbca1504b4a5d)
           date_end: ''
           date_start: '2023-04-1'
           description: ''
