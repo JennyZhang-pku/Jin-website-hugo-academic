@@ -119,8 +119,8 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: Jin Zhang
-          link: '[https://twitter.com/Twitter](https://twitter.com/Jellyfish_Z007)'
+          name: Jellyfish_Z007
+          link: https://twitter.com/Twitter
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
