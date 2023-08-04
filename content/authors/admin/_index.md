@@ -2,7 +2,8 @@
 title: Jin Zhang
 role: ""
 avatar_filename: assets/media/img_0156.jpg
-bio: My research interests include macroeconomics and macro-finance.
+bio: My research interests include macroeconomics, macro-finance and
+  international economics.
 interests: []
 social:
   - icon: envelope
