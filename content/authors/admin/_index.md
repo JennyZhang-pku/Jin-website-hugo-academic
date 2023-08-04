@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/jin-zhang-945289137/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: assets/media/张瑾_cv_emory.pdf
 organizations:
   - name: Emory University
     url: https://economics.emory.edu/people/grad-students/zhang-jin.html
