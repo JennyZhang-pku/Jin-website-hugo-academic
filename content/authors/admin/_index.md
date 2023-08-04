@@ -4,7 +4,10 @@ role: ""
 avatar_filename: assets/media/img_0156.jpg
 bio: My research interests include macroeconomics, macro-finance and
   international economics.
-interests: []
+interests:
+  - macroeconomics
+  - macro-finance and international economics
+  - music
 social:
   - icon: envelope
     icon_pack: fas
