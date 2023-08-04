@@ -34,7 +34,7 @@ education:
     - course: BA in Economics
       institution: University of International Business and Economics
       year: 2019
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
