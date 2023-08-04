@@ -1,6 +1,7 @@
 ---
 title: Jin Zhang
-role: Professor of Artificial Intelligence
+role: ""
+avatar_filename: img_0156.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
