@@ -75,14 +75,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/858cb1c9aee8ffb66bafed93188fbca1504b4a5d
-          date_end: ''
+        - date_end: ''
           date_start: '2023-02-28'
           description: ''
           organization: Datacamp
           organization_url: https://www.datacamp.com
           title: Intermediate Regression with statsmodels in Python
-          url: ''
+          url: 'https://www.datacamp.com/statement-of-accomplishment/course/858cb1c9aee8ffb66bafed93188fbca1504b4a5d'
+    # certificate_url: 
     design:
       columns: '2'
   - block: collection
