@@ -29,6 +29,9 @@ organizations:
     url: https://economics.emory.edu/people/grad-students/zhang-jin.html
 education:
   courses:
+    - course: Ph.D. in Economics
+      institution: Emory University
+      year: 2027
     - course: MA in Finance
       institution: Peking University HSBC Business School(PHBS)
       year: 2022
