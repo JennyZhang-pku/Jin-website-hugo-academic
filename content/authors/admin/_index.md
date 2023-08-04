@@ -30,14 +30,14 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Economics
-      institution: Emory University
-      year: 2027
+      institution: Emory University, 2027(Expected)
+      year: ""
     - course: MA in Finance
-      institution: Peking University HSBC Business School(PHBS)
-      year: 2022
+      institution: Peking University HSBC Business School(PHBS), 2022
+      year: ""
     - course: BA in Economics
-      institution: University of International Business and Economics
-      year: 2019
+      institution: University of International Business and Economics, 2019
+      year: ""
 superuser: false
 status:
   icon: ☕️
