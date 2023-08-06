@@ -31,7 +31,7 @@ sections:
 ###########################################
   # The slides I have made, as study notes
   - block: Study Notes
-    id: studynote
+    # id: studynote
     content:
       title: Study Notes
       subtitle: 
@@ -39,7 +39,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-  ###########################################  
+###########################################  
   - block: contact
     id: contact
     content:
