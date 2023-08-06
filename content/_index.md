@@ -18,7 +18,7 @@ sections:
         - name: Stata
           description: 90%
           icon: chart-line
-          icon_pack: fab
+          icon_pack: fas
         - name: Matlab
           description: 100%
           icon: chart-line
