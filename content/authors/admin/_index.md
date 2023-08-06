@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include macroeconomics, macro-finance and
   international economics.
 interests:
-  - macroeconomics and macro-finance
+  - macroeconomics
+  - macro-finance
   - international economics
-  - music
 social:
   - icon: envelope
     icon_pack: fas
