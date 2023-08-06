@@ -27,13 +27,19 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+
+###########################################
   # The slides I have made, as study notes
   - block: Study Notes
     id: studynote
     content:
       title: Study Notes
       subtitle: 
-      text: 
+      text:
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+  ###########################################  
   - block: contact
     id: contact
     content:
