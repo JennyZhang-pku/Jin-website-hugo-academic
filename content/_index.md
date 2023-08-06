@@ -27,6 +27,13 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+  # The slides I have made, as study notes
+  - block: Study Notes
+    id: studynote
+    content:
+      title: Study Notes
+      subtitle: 
+      text: 
   - block: contact
     id: contact
     content:
