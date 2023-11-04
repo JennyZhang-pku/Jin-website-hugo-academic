@@ -44,9 +44,9 @@ education:
 superuser: false
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zhang
 highlight_name: true
-first_name: Alice
+first_name: Jin
 email: ""
 ---
 J﻿in Zhang is a second-year Ph.D. in economics at the Emory University. Her research interests includes macroeconomics, macro-finance and international economics.
